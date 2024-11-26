@@ -7,7 +7,7 @@
     <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
 </head>
-<body style="background-repeat: no-repeat;">
+<!-- <body style="background-repeat: no-repeat;"> -->
     <div class="container">
         <div class="row">
             <div class="col-xs-6 col-md-6">
