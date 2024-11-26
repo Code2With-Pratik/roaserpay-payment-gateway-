@@ -33,6 +33,8 @@ if(isset($_GET['oid']) && isset($_GET['rp_payment_id']) && isset($_GET['rp_signa
 
     } else {
         echo "<h1>Payment Verification Failed</h1>";
+        echo "<p>Order ID: " . $order_id . "</p>";
+        echo "<p>Payment ID: " . $payment_id . "</p>";
     }
 }
 ?>
